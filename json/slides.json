@@ -2,17 +2,17 @@
     "slides": [
         {
             "image": "./picture/O1CN01ovZUE31ewHUNF0ULy_!!196993935.jpg",
-            "alt": "Image 1",
+            "alt": "product 1",
             "caption": ""
         },
         {
             "image": "./picture/54321.jpg",
-            "alt": "Image 2",
+            "alt": "product 2",
             "caption": ""
         },
         {
             "image": "./picture/product4.png",
-            "alt": "Image 3",
+            "alt": "product 3",
             "caption": ""
         }
     ]
