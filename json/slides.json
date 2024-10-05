@@ -1,0 +1,19 @@
+{
+    "slides": [
+        {
+            "image": "./picture/O1CN01ovZUE31ewHUNF0ULy_!!196993935.jpg",
+            "alt": "Image 1",
+            "caption": ""
+        },
+        {
+            "image": "./picture/54321.jpg",
+            "alt": "Image 2",
+            "caption": ""
+        },
+        {
+            "image": "./picture/product4.png",
+            "alt": "Image 3",
+            "caption": ""
+        }
+    ]
+}

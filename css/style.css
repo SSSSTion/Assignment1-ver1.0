@@ -1,0 +1,57 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    background-color: #f9f9f9; 
+    max-width: 1480px;
+    min-width: 1140px;
+    font-family: 'Arial', sans-serif; 
+}
+
+.top-left-image {
+    display: block; /* 确保图片不是行内元素 */
+    width: auto;
+    height: auto;
+}
+
+.search-container a {
+    width: 100px;
+    float: right;
+}
+
+.search-container a img{
+    width:100%; /* 如果需要保持图片的宽度 */
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    margin: 30px 1%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#search-input {
+    padding: 15px;
+    margin-left: 10px;
+    width: 70%;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#search-btn {
+    margin-left: 5px;
+    padding: 11px 25px;
+    background-color: #ff6f61;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer; /* hover: hand */
+    transition: background-color 0.3s; /* Add transition effect */
+}
+
+#search-btn:hover {
+    background-color: #ff4c3b;
+}
