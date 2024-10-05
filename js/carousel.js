@@ -3,7 +3,7 @@ let jsonPath;
 
 // when using GitHub Pages，use absolute path
 if (window.location.hostname === "sssstion.github.io") {
-  jsonPath = "https://sssstion.github.io/Assignment1-ver0.2/json/slides.json";
+  jsonPath = "https://sssstion.github.io/Assignment1-ver1.0/json/slides.json";
 } else {
   // when in my pc,use relative path
   jsonPath = "./json/slides.json";
